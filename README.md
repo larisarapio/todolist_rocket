@@ -1,6 +1,6 @@
 # Todolist - rocketseat
 
-Projeto realizado no curso gratuito da Rocketseat com Daniele Leão
+Projeto realizado no curso gratuito da Rocketseat com Daniele Leão:
 📌Spring Boot
 📌Java
 📌Banco de dados
