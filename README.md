@@ -1,8 +1,8 @@
 # Todolist - rocketseat
 
 Projeto realizado no curso gratuito da Rocketseat com Daniele Leão
-> Spring Boot
-> Java
+>>Spring Boot
+ Java
 > Banco de dados
 > Segurança e estruturação
 > Maven
